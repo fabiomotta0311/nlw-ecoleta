@@ -1,4 +1,4 @@
-# nlw-ecoleta
+# Next Level Week - Ecoleta
 Foi criado um repositório para cada aplicação
 
 
